@@ -1,4 +1,4 @@
-# Chrome Apps for Rails
+# Chrome Apps for DevOps
 
 ![Chrome Apps logo](images/chrome_apps.png)
 
@@ -8,50 +8,59 @@
 Open a terminal give the following command:
 
 ```bash
-$ git clone https://github.com/enogrob/ChromeApps_Rails.git
+$ git clone https://github.com/enogrob/ChromeApps_DevOps.git
 ```
 
-As we can see a subdirectory is created for each Rails app.
+As we can see a subdirectory is created for each DevOps app.
 
 ```bash
-[TODAY (master)]$ ls -la
+$ ls -la
 total 40
-drwxr-xr-x@   8 enogrob  staff   272B Apr 26 23:35 ./
+drwxr-xr-x@   8 enogrob  staff   272B Apr 28 18:48 ./
 drwxr-xr-x+ 138 enogrob  staff   4.6K Apr 26 05:51 ../
--rw-r--r--@   1 enogrob  staff   6.0K Apr 25 01:26 .DS_Store
--rw-r--r--    1 enogrob  staff     7B Apr 25 01:26 .ruby-gemset
--rw-r--r--    1 enogrob  staff    11B Apr 25 01:26 .ruby-version
--rw-r--r--    1 enogrob  staff     0B Apr 25 11:17 20150202_202034_localhost.log
-drwxr-xr-x   21 enogrob  staff   714B Apr 26 23:40 ChromeApps_Rails/
--rw-r--r--    1 enogrob  staff   139B Apr 26 23:35 today_data.yaml
+-rw-r--r--@   1 enogrob  staff   6.0K Mar  2 11:58 .DS_Store
+-rw-r--r--    1 enogrob  staff     7B Mar  2 11:58 .ruby-gemset
+-rw-r--r--    1 enogrob  staff    11B Mar  2 11:58 .ruby-version
+-rw-r--r--    1 enogrob  staff     0B Apr 28 17:24 20150202_202034_localhost.log
+drwxr-xr-x   32 enogrob  staff   1.1K Apr 28 18:57 ChromeApps_DevOps/
+-rw-r--r--    1 enogrob  staff   141B Apr 28 18:48 today_data.yaml
 
-$ tree -L 1 ChromeApps_Rails/
-ChromeApps_Rails
+$ tree -L 1 ChromeApps_DevOps/
+ChromeApps_DevOps/
+├── DevOps-AmazonAWS
+├── DevOps-BubbleConf
+├── DevOps-Cygwin
+├── DevOps-Docker
+├── DevOps-DockerMachine
+├── DevOps-Dockerhub
+├── DevOps-Eclipse.org
+├── DevOps-Excel2010Reference
+├── DevOps-GistBox
+├── DevOps-GoogleAppEngine
+├── DevOps-GoogleGroups
+├── DevOps-HTML
+├── DevOps-Heroku
+├── DevOps-Livecode
+├── DevOps-MySQL
+├── DevOps-PostgreSQL
+├── DevOps-Powershell
+├── DevOps-Sqlite
+├── DevOps-Vagrant
+├── DevOps-VirtualBox
+├── Devops-Bitbucket
+├── Devops-Github
+├── Devops-Pigshell
+├── Devops-Puppet
+├── Devops-omniref
 ├── README.md
-├── Rails-API
-├── Rails-APIdock-RSpec
-├── Rails-Bootstrap
-├── Rails-Capistrano
-├── Rails-Cloud9
-├── Rails-GoogleGroups
-├── Rails-Homepage
-├── Rails-Nitrous
-├── Rails-RailsBricks
-├── Rails-RailsConf2014
-├── Rails-RailsGuides
-├── Rails-RailsServer
-├── Rails-RailsTutorial
-├── Rails-RailsWikipedia
-├── Rails-Railscasts
-├── Rails-w3schools
 └── images
 
-15 directories, 1 file
+26 directories, 1 file
 $
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Ruby, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_Rails` e.g. `Rails-Homepage`, and then repeat that for the wanted apps.
+In order to load the `Chrome Apps` for Ruby, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_DevOps` e.g. `DevOps-DockerMachine`, and then repeat that for the wanted apps.
 
 ```
 chrome://extensions/
@@ -59,6 +68,6 @@ chrome://extensions/
 
 ![Chrome screenshot](images/chrome_screenshot1.png)
 
-### 3. After load the Chrome Apps wanted for Rails, Chrome will look like the screenshot below:
+### 3. After load the Chrome Apps wanted for DevOps, Chrome will look like the screenshot below:
 
 ![Chrome screenshot](images/chrome_screenshot2.png)
