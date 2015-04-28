@@ -1,0 +1,17 @@
+{
+  "name": "Powershell",
+  "description": "Powershell",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://technet.microsoft.com/en-us/library/bb978526.aspx"
+    ],
+    "launch": {
+      "web_url":"http://technet.microsoft.com/en-us/library/bb978526.aspx"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

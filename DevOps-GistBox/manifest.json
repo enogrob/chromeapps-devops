@@ -1,0 +1,17 @@
+{
+  "name": "GistBox",
+  "description": "Access GistBox",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.gistboxapp.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.gistboxapp.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

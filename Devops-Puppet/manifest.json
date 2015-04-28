@@ -1,0 +1,17 @@
+{
+  "name": "Puppet",
+  "description": "Access Puppet",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://puppetlabs.com/"
+    ],
+    "launch": {
+      "web_url": "http://puppetlabs.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

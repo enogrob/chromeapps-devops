@@ -1,0 +1,17 @@
+{
+  "name": "Github",
+  "description": "Acess Github",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/enogrob"
+    ],
+    "launch": {
+      "web_url": "https://github.com/enogrob"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

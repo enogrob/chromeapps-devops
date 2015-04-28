@@ -1,0 +1,17 @@
+{
+  "name": "GAE",
+  "description": "Access GAE",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://appengine.google.com/start"
+    ],
+    "launch": {
+      "web_url": "https://appengine.google.com/start"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

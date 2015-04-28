@@ -1,0 +1,17 @@
+{
+  "name": "Amazon AWS",
+  "description": "Access Amazon AWS",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://aws.amazon.com/"
+    ],
+    "launch": {
+      "web_url": "http://aws.amazon.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

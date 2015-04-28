@@ -1,0 +1,17 @@
+{
+  "name": "Excel 2010 Ref",
+  "description": "Excel 2010 Reference",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://msdn.microsoft.com/en-us/library/ee861528(v=office.14).aspx"
+    ],
+    "launch": {
+      "web_url": "http://msdn.microsoft.com/en-us/library/ee861528(v=office.14).aspx"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

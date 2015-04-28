@@ -1,0 +1,17 @@
+{
+  "name": "Eclipse.org",
+  "description": "Access Eclipse.org",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.eclipse.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.eclipse.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

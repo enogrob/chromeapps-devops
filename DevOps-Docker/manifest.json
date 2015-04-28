@@ -1,0 +1,17 @@
+{
+  "name": "Docker",
+  "description": "Access Docker",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.docker.io/"
+    ],
+    "launch": {
+      "web_url": "http://www.docker.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

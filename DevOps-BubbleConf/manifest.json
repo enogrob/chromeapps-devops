@@ -1,0 +1,17 @@
+{
+  "name": "BubbleConf",
+  "description": "Access BubbleConf",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.bubbleconf.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.bubbleconf.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

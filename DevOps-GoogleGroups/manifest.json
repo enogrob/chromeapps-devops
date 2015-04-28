@@ -1,0 +1,17 @@
+{
+  "name": "GoogleGroups",
+  "description": "Access GoogleGroups",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://groups.google.com/forum/#!myforums"
+    ],
+    "launch": {
+      "web_url": "https://groups.google.com/forum/#!myforums"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

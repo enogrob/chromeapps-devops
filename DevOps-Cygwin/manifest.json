@@ -1,0 +1,17 @@
+{
+  "name": "Cygwin",
+  "description": "Access Cygwin Homepage",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://cygwin.com"
+    ],
+    "launch": {
+      "web_url": "http://cygwin.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

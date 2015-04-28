@@ -1,0 +1,17 @@
+{
+  "name": "Dockerhub",
+  "description": "Access Dockerhub",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://hub.docker.com/"
+    ],
+    "launch": {
+      "web_url": "https://hub.docker.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Vagrant",
+  "description": "Access Vagrant",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.vagrantup.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.vagrantup.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

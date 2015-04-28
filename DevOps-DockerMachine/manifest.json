@@ -1,0 +1,17 @@
+{
+  "name": "Docker Machine",
+  "description": "Access Docker Machine",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://docs.docker.com/machine/"
+    ],
+    "launch": {
+      "web_url": "https://docs.docker.com/machine/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

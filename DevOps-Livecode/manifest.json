@@ -1,0 +1,17 @@
+{
+  "name": "livecode",
+  "description": "Access LiveCode",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://livecode.com/"
+    ],
+    "launch": {
+      "web_url": "http://livecode.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

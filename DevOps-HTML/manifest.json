@@ -1,0 +1,17 @@
+{
+  "name": "Html",
+  "description": "Access Html",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.w3schools.com/tags/"
+    ],
+    "launch": {
+      "web_url": "http://www.w3schools.com/tags/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
