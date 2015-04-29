@@ -26,10 +26,11 @@ drwxr-xr-x   32 enogrob  staff   1.1K Apr 28 18:57 ChromeApps_DevOps/
 -rw-r--r--    1 enogrob  staff   141B Apr 28 18:48 today_data.yaml
 
 $ tree -L 1 ChromeApps_DevOps/
-ChromeApps_DevOps/
+ChromeApps_DevOps
 ├── DevOps-AmazonAWS
 ├── DevOps-BubbleConf
 ├── DevOps-Cygwin
+├── DevOps-DigitalOcean
 ├── DevOps-Docker
 ├── DevOps-DockerMachine
 ├── DevOps-Dockerhub
@@ -39,7 +40,6 @@ ChromeApps_DevOps/
 ├── DevOps-GoogleAppEngine
 ├── DevOps-GoogleGroups
 ├── DevOps-HTML
-├── DevOps-Heroku
 ├── DevOps-Livecode
 ├── DevOps-MySQL
 ├── DevOps-PostgreSQL
@@ -49,13 +49,14 @@ ChromeApps_DevOps/
 ├── DevOps-VirtualBox
 ├── Devops-Bitbucket
 ├── Devops-Github
+├── Devops-Heroku
 ├── Devops-Pigshell
 ├── Devops-Puppet
 ├── Devops-omniref
 ├── README.md
 └── images
 
-26 directories, 1 file
+27 directories, 1 file
 $
 ```
 
