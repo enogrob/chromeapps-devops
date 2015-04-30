@@ -1,0 +1,17 @@
+{
+  "name": "Chef",
+  "description": "Access Chef",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.chef.io/"
+    ],
+    "launch": {
+      "web_url": "https://www.chef.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

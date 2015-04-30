@@ -26,7 +26,7 @@ drwxr-xr-x   32 enogrob  staff   1.1K Apr 28 18:57 ChromeApps_DevOps/
 -rw-r--r--    1 enogrob  staff   141B Apr 28 18:48 today_data.yaml
 
 $ tree -L 1 ChromeApps_DevOps/
-ChromeApps_DevOps
+ChromeApps_DevOps/
 ├── DevOps-AmazonAWS
 ├── DevOps-BubbleConf
 ├── DevOps-Cygwin
@@ -48,6 +48,7 @@ ChromeApps_DevOps
 ├── DevOps-Vagrant
 ├── DevOps-VirtualBox
 ├── Devops-Bitbucket
+├── Devops-Chef
 ├── Devops-Github
 ├── Devops-Heroku
 ├── Devops-Pigshell
@@ -56,7 +57,7 @@ ChromeApps_DevOps
 ├── README.md
 └── images
 
-27 directories, 1 file
+28 directories, 1 file
 $
 ```
 
