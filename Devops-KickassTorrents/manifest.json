@@ -1,0 +1,17 @@
+{
+  "name": "Kickass.to",
+  "description": "Access Kickass.to",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://kickass.to/"
+    ],
+    "launch": {
+      "web_url": "https://kickass.to/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
