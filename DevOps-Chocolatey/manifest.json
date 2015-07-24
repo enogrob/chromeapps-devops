@@ -1,0 +1,17 @@
+{
+  "name": "Chocolatey",
+  "description": "Access Chocolatey",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://chocolatey.org/"
+    ],
+    "launch": {
+      "web_url": "https://chocolatey.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
