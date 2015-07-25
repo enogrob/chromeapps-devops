@@ -1,0 +1,17 @@
+{
+  "name": "Atlas",
+  "description": "Access Atlas",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://atlas.hashicorp.com/"
+    ],
+    "launch": {
+      "web_url": "https://atlas.hashicorp.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
