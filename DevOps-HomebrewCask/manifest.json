@@ -1,0 +1,17 @@
+{
+  "name": "Cask",
+  "description": "Access brew Cask",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://caskroom.io"
+    ],
+    "launch": {
+      "web_url": "http://caskroom.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
