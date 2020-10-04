@@ -1,0 +1,17 @@
+{
+  "name": "Sidekiq",
+  "description": "Access Sidekiq",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://sidekiq.org/"
+    ],
+    "launch": {
+      "web_url": "https://sidekiq.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

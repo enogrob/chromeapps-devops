@@ -1,4 +1,4 @@
-# Chrome Apps for DevOps
+# Chrome Apps for Elixir
 
 ![Chrome Apps logo](images/chrome_apps.png)
 
@@ -8,68 +8,56 @@
 Open a terminal give the following command:
 
 ```bash
-$ git clone https://github.com/enogrob/ChromeApps_DevOps.git
+$ git clone https://github.com/enogrob/chromeapps-elixir.git
 ```
 
-As we can see a subdirectory is created for each DevOps app.
+As we can see a subdirectory is created for each Elixir app.
 
 ```bash
 $ ls -la
-total 40
-drwxr-xr-x@   8 enogrob  staff   272B Apr 28 18:48 ./
-drwxr-xr-x+ 138 enogrob  staff   4.6K Apr 26 05:51 ../
--rw-r--r--@   1 enogrob  staff   6.0K Mar  2 11:58 .DS_Store
--rw-r--r--    1 enogrob  staff     7B Mar  2 11:58 .ruby-gemset
--rw-r--r--    1 enogrob  staff    11B Mar  2 11:58 .ruby-version
--rw-r--r--    1 enogrob  staff     0B Apr 28 17:24 20150202_202034_localhost.log
-drwxr-xr-x   32 enogrob  staff   1.1K Apr 28 18:57 ChromeApps_DevOps/
--rw-r--r--    1 enogrob  staff   141B Apr 28 18:48 today_data.yaml
+total 984
+drwxr-xr-x@  10 enogrob  staff    340 Oct  3 16:42 .
+drwxr-xr-x@ 298 enogrob  staff  10132 Oct  4 02:29 ..
+-rw-r--r--@   1 enogrob  staff   6148 Oct  3 16:58 .DS_Store
+drwxr-xr-x   14 enogrob  staff    476 Oct  3 16:54 .git
+-rw-r--r--    1 enogrob  staff      5 May 31  2016 .gitignore
+drwxr-xr-x   10 enogrob  staff    340 Nov 17  2016 .idea
+-rw-r--r--@   1 enogrob  staff      0 Nov 17  2016 Icon?
+-rw-r--r--@   1 enogrob  staff   1892 Oct  4 02:33 README.md
+drwxr-xr-x   19 enogrob  staff    646 Oct  4 02:31 apps
+drwxr-xr-x    4 enogrob  staff    136 Oct  4 02:32 images
 
-$ tree -L 1 ChromeApps_DevOps/
-ChromeApps_DevOps/
-├── DevOps-AmazonAWS
-├── DevOps-BubbleConf
-├── DevOps-Cygwin
-├── DevOps-DigitalOcean
-├── DevOps-Docker
-├── DevOps-DockerMachine
-├── DevOps-Dockerhub
-├── DevOps-Eclipse.org
-├── DevOps-Excel2010Reference
-├── DevOps-GistBox
-├── DevOps-GoogleAppEngine
-├── DevOps-GoogleGroups
-├── DevOps-HTML
-├── DevOps-Livecode
-├── DevOps-MySQL
-├── DevOps-PostgreSQL
-├── DevOps-Powershell
-├── DevOps-Sqlite
-├── DevOps-Vagrant
-├── DevOps-VirtualBox
-├── Devops-Bitbucket
-├── Devops-Chef
-├── Devops-Github
-├── Devops-Heroku
-├── Devops-Pigshell
-├── Devops-Puppet
-├── Devops-omniref
-├── README.md
-└── images
+$ tree -L 1 apps/
+apps
+├── Elixir-Awesome
+├── Elixir-Blog
+├── Elixir-CodeSync
+├── Elixir-Distillery
+├── Elixir-ElixirAPI
+├── Elixir-ElixirWeely
+├── Elixir-ElixirWikipedia
+├── Elixir-Erlang
+├── Elixir-ErlangOTP
+├── Elixir-ErlangSolutions
+├── Elixir-ErlangWikipedia
+├── Elixir-Hex
+├── Elixir-Homepage
+├── Elixir-Kerl
+├── Elixir-Kiex
+├── Elixir-Phoenix
+└── Elixir-PhoenixAPI
 
-28 directories, 1 file
+17 directories, 0 files
 $
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Ruby, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_DevOps` e.g. `DevOps-DockerMachine`, and then repeat that for the wanted apps.
+In order to load the `Chrome Apps` for Eicon, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Elixir-Homepage`, and then repeat that for the wanted apps.
 
 ```
 chrome://extensions/
 ```
 
+### 3. After load the Chrome Apps wanted for Elixir, Chrome will look like the screenshot below:
+
 ![Chrome screenshot](images/chrome_screenshot1.png)
-
-### 3. After load the Chrome Apps wanted for DevOps, Chrome will look like the screenshot below:
-
-![Chrome screenshot](images/chrome_screenshot2.png)

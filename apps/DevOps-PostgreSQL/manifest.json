@@ -1,0 +1,17 @@
+{
+  "name": "PostgreSQL",
+  "description": "Access PostgreSQL",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.postgresql.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.postgresql.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

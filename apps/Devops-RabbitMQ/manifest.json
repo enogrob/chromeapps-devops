@@ -1,0 +1,17 @@
+{
+  "name": "RabbitMQ",
+  "description": "Access RabbitMQ",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.rabbitmq.com/"
+    ],
+    "launch": {
+      "web_url": "https://www.rabbitmq.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

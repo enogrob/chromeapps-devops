@@ -1,0 +1,17 @@
+{
+  "name": "CloudAMQP",
+  "description": "Access CloudAMQP",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.cloudamqp.com/"
+    ],
+    "launch": {
+      "web_url": "https://www.cloudamqp.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

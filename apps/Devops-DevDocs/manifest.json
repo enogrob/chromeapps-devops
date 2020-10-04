@@ -1,0 +1,17 @@
+{
+  "name": "DevDocs",
+  "description": "Access DevDocs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://devdocs.io/"
+    ],
+    "launch": {
+      "web_url": "https://devdocs.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

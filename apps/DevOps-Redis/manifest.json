@@ -1,0 +1,17 @@
+{
+  "name": "Redis",
+  "description": "Access Redis",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://redislabs.com/"
+    ],
+    "launch": {
+      "web_url": "https://redislabs.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

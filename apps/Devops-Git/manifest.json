@@ -1,0 +1,17 @@
+{
+  "name": "Git",
+  "description": "Access Git",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://git-scm.com"
+    ],
+    "launch": {
+      "web_url": "http://git-scm.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

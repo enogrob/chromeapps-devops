@@ -1,0 +1,17 @@
+{
+  "name": "Applicationize",
+  "description": "Access Applicationize",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://applicationize.me/now"
+    ],
+    "launch": {
+      "web_url": "https://applicationize.me/now"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

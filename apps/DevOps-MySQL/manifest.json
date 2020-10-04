@@ -1,0 +1,17 @@
+{
+  "name": "MySQL",
+  "description": "Access MySQL",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.mysql.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.mysql.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
