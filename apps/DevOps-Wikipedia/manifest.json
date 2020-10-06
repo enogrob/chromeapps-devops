@@ -1,0 +1,17 @@
+{
+  "name": "DevOps Wikipedia",
+  "description": "Access DevOps Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://en.wikipedia.org/wiki/DevOps"
+    ],
+    "launch": {
+      "web_url":"https://en.wikipedia.org/wiki/DevOps"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
