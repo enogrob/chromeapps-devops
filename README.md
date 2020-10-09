@@ -49,7 +49,7 @@ apps/
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Eicon, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `DevOps-Docker`, and then repeat that for the wanted apps. Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
+In order to load the `Chrome Apps` for DevOps, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `DevOps-Docker`, and then repeat that for the wanted apps. Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
 
 [chrome://extensions](chrome://extensions)
 
