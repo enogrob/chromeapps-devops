@@ -1,14 +1,14 @@
 {
-  "name": "Neo4j",
-  "description": "Access Neo4j",
+  "name": "TwilioQuest",
+  "description": "Access TwilioQuest",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://127.0.0.1:7474/browser/"
+      "https://www.twilio.com/quest"
     ],
     "launch": {
-      "web_url": "http://127.0.0.1:7474/browser/"
+      "web_url": "https://www.twilio.com/quest"
     }
   },
   "icons": {
