@@ -1,0 +1,17 @@
+{
+  "name": "MikroTik",
+  "description": "Access MikroTik",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://mikrotik.com"
+    ],
+    "launch": {
+      "web_url": "https://mikrotik.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

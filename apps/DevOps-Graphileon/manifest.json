@@ -1,0 +1,17 @@
+{
+  "name": "Graphileon",
+  "description": "Access Graphileon",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://graphileon.com/"
+    ],
+    "launch": {
+      "web_url": "https://graphileon.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

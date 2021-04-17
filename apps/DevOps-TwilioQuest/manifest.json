@@ -1,0 +1,17 @@
+{
+  "name": "Neo4j",
+  "description": "Access Neo4j",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://127.0.0.1:7474/browser/"
+    ],
+    "launch": {
+      "web_url": "http://127.0.0.1:7474/browser/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

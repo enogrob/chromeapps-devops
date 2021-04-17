@@ -1,0 +1,17 @@
+{
+  "name": "Memgraph",
+  "description": "Access Mempgraph",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://memgraph.com/"
+    ],
+    "launch": {
+      "web_url": "https://memgraph.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
