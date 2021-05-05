@@ -1,0 +1,17 @@
+{
+  "name": "CodeTriage",
+  "description": "Access CodeTriage",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.codetriage.com"
+    ],
+    "launch": {
+      "web_url": "https://www.codetriage.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
