@@ -1,0 +1,17 @@
+{
+  "name": "Kubernetes",
+  "description": "Access Kubernetes",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://kubernetes.io"
+    ],
+    "launch": {
+      "web_url": "https://kubernetes.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

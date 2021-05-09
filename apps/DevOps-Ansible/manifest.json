@@ -1,0 +1,17 @@
+{
+  "name": "Ansible",
+  "description": "Access Ansible",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.ansible.com"
+    ],
+    "launch": {
+      "web_url": "https://www.ansible.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

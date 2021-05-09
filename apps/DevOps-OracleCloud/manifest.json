@@ -1,0 +1,17 @@
+{
+  "name": "Oracle Cloud",
+  "description": "Access Oracle Cloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.oracle.com/cloud"
+    ],
+    "launch": {
+      "web_url": "https://www.oracle.com/cloud"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

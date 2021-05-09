@@ -1,0 +1,17 @@
+{
+  "name": "Azure Cloud",
+  "description": "Access Azure Cloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://azure.microsoft.com"
+    ],
+    "launch": {
+      "web_url": "https://azure.microsoft.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

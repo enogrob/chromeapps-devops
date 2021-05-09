@@ -1,0 +1,17 @@
+{
+  "name": "Google Cloud",
+  "description": "Access Google Cloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://cloud.google.com"
+    ],
+    "launch": {
+      "web_url": "https://cloud.google.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

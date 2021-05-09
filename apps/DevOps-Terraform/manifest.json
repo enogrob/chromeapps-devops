@@ -1,0 +1,17 @@
+{
+  "name": "Terraform",
+  "description": "Access Terraform",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.terraform.io"
+    ],
+    "launch": {
+      "web_url": "https://www.terraform.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
