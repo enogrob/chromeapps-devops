@@ -1,0 +1,17 @@
+{
+  "name": "GitLab",
+  "description": "Access GitLab",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://gitlab.com"
+    ],
+    "launch": {
+      "web_url": "https://gitlab.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

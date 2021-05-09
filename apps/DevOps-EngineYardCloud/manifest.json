@@ -1,0 +1,17 @@
+{
+  "name": "EngineYard Cloud",
+  "description": "Access EngineYard Cloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://cloud.engineyard.com"
+    ],
+    "launch": {
+      "web_url": "https://cloud.engineyard.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
