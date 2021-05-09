@@ -1,0 +1,17 @@
+{
+  "name": "IBM Cloud",
+  "description": "Access IBM Cloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://cloud.ibm.com"
+    ],
+    "launch": {
+      "web_url": "https://cloud.ibm.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
