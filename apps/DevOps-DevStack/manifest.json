@@ -1,0 +1,17 @@
+{
+  "name": "DevStack",
+  "description": "Access DevStack",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://docs.openstack.org/devstack/latest"
+    ],
+    "launch": {
+      "web_url": "https://docs.openstack.org/devstack/latest"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

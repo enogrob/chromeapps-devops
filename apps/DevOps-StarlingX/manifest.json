@@ -1,0 +1,17 @@
+{
+  "name": "StarlingX",
+  "description": "StarlingX",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.starlingx.io"
+    ],
+    "launch": {
+      "web_url": "https://www.starlingx.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
