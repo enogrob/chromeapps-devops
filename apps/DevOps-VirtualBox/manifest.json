@@ -1,0 +1,17 @@
+{
+  "name": "VirtualBox",
+  "description": "Access VirtualBox",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.virtualbox.org/"
+    ],
+    "launch": {
+      "web_url": "https://www.virtualbox.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
