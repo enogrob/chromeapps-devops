@@ -1,0 +1,17 @@
+{
+  "name": "OpenDev",
+  "description": "Acess OpenDev",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://opendev.org"
+    ],
+    "launch": {
+      "web_url": "https://opendev.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
