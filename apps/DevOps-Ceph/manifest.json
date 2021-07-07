@@ -1,0 +1,17 @@
+{
+  "name": "Ceph",
+  "description": "Access Ceph",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ceph.io"
+    ],
+    "launch": {
+      "web_url": "https://ceph.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
