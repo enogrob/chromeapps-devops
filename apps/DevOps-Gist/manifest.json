@@ -1,0 +1,17 @@
+{
+  "name": "Gist",
+  "description": "Access Gist",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://gist.github.com"
+    ],
+    "launch": {
+      "web_url": "https://gist.github.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
