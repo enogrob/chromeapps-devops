@@ -1,0 +1,17 @@
+{
+  "name": "Diagrams.net",
+  "description": "Access Diagrams.net",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://app.diagrams.net"
+    ],
+    "launch": {
+      "web_url": "https://app.diagrams.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
