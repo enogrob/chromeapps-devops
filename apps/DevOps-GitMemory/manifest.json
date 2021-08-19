@@ -1,0 +1,17 @@
+{
+  "name": "GitMemory",
+  "description": "GitMemory",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://gitmemory.com"
+    ],
+    "launch": {
+      "web_url": "https://gitmemory.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
