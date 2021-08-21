@@ -27,25 +27,50 @@ drwxr-xr-x   18 enogrob  staff    612 Oct  4 11:04 apps
 drwxr-xr-x    5 enogrob  staff    170 May 28  2016 images
 
 $ tree -L 1 apps/
-apps/
-├── DevOps-Applicationize
+apps
+├── DevOps-AmazonCloud
+├── DevOps-Ansible
+├── DevOps-AzureCloud
+├── Devops-Bitbucket
+├── DevOps-Ceph
+├── Devops-CloudAMQP
+├── Devops-CodeTriage
+├── DevOps-DevStack
+├── DevOps-Diagrams.net
+├── DevOps-DigitalOcean
 ├── DevOps-Docker
 ├── DevOps-Dockerhub
+├── DevOps-EngineYardCloud
+├── DevOps-Gist
+├── Devops-Git
+├── Devops-Github
+├── DevOps-GitLab
+├── DevOps-GitMemory
+├── DevOps-GoogleCloud
+├── DevOps-Graphileon
 ├── DevOps-Homebrew
+├── DevOps-IBMCloud
+├── DevOps-Kubernetes
+├── DevOps-Memgraph
+├── DevOps-MikroTik
 ├── DevOps-MySQL
 ├── DevOps-Neo4j
+├── DevOps-OpenDev
+├── DevOps-OpenStack
+├── DevOps-OracleCloud
 ├── DevOps-PostgreSQL
+├── Devops-Puppet
+├── Devops-RabbitMQ
 ├── DevOps-Redis
 ├── DevOps-Sidekiq
 ├── DevOps-Sqlite
-├── Devops-Bitbucket
-├── Devops-CloudAMQP
-├── Devops-DevDocs
-├── Devops-Git
-├── Devops-Github
-└── Devops-RabbitMQ
+├── DevOps-StarlingX
+├── DevOps-Terraform
+├── DevOps-TwilioQuest
+├── DevOps-VirtualBox
+└── DevOps-Wikipedia
 
-16 directories, 0 files
+41 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
