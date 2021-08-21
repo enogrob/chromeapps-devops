@@ -61,6 +61,7 @@ apps
 ├── DevOps-PostgreSQL
 ├── DevOps-RabbitMQ
 ├── DevOps-Redis
+├── DevOps-Riju
 ├── DevOps-Sidekiq
 ├── DevOps-Sqlite
 ├── DevOps-StarlingX
@@ -70,7 +71,7 @@ apps
 ├── DevOps-Wikipedia
 └── Devops-Puppet
 
-41 directories, 0 files
+42 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
