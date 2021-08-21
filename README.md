@@ -31,10 +31,10 @@ apps
 ├── DevOps-AmazonCloud
 ├── DevOps-Ansible
 ├── DevOps-AzureCloud
-├── Devops-Bitbucket
+├── DevOps-Bitbucket
 ├── DevOps-Ceph
-├── Devops-CloudAMQP
-├── Devops-CodeTriage
+├── DevOps-CloudAMQP
+├── DevOps-CodeTriage
 ├── DevOps-DevStack
 ├── DevOps-Diagrams.net
 ├── DevOps-DigitalOcean
@@ -42,10 +42,10 @@ apps
 ├── DevOps-Dockerhub
 ├── DevOps-EngineYardCloud
 ├── DevOps-Gist
-├── Devops-Git
-├── Devops-Github
+├── DevOps-Git
 ├── DevOps-GitLab
 ├── DevOps-GitMemory
+├── DevOps-Github
 ├── DevOps-GoogleCloud
 ├── DevOps-Graphileon
 ├── DevOps-Homebrew
@@ -59,8 +59,7 @@ apps
 ├── DevOps-OpenStack
 ├── DevOps-OracleCloud
 ├── DevOps-PostgreSQL
-├── Devops-Puppet
-├── Devops-RabbitMQ
+├── DevOps-RabbitMQ
 ├── DevOps-Redis
 ├── DevOps-Sidekiq
 ├── DevOps-Sqlite
@@ -68,7 +67,8 @@ apps
 ├── DevOps-Terraform
 ├── DevOps-TwilioQuest
 ├── DevOps-VirtualBox
-└── DevOps-Wikipedia
+├── DevOps-Wikipedia
+└── Devops-Puppet
 
 41 directories, 0 files
 ```
