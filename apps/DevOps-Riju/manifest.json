@@ -1,0 +1,17 @@
+{
+  "name": "Riju",
+  "description": "Riju",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://riju.codes"
+    ],
+    "launch": {
+      "web_url": "https://riju.codes"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
