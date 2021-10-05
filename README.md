@@ -6,7 +6,7 @@ Gather DevOps important references and shortcuts in form of Chrome Apps.
 
 ## Installation
 
-### 1. Clone this repository and see its contents.
+### 1. Clone this repository or download and see its contents.
 Open a terminal give the following command:
 
 ```bash
@@ -80,6 +80,8 @@ apps
 $ cd apps
 $ xdg-open .&
 ```
+
+![Chrome screenshot](images/chrome_screenshot4.png)
 
 ### 2. Open Chrome with the following url:
 In order to load the `Chrome Apps` for DevOps, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `DevOps-Docker`, and then repeat that for the wanted apps. 
