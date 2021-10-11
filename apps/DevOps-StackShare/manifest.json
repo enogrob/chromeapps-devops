@@ -1,0 +1,17 @@
+{
+  "name": "StackShare",
+  "description": "Access StackShare",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://stackshare.io"
+    ],
+    "launch": {
+      "web_url":"https://stackshare.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
