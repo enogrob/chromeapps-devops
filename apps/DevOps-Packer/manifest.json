@@ -1,0 +1,17 @@
+{
+  "name": "Packer",
+  "description": "Access Packer",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "httpw://www.packer.io"
+    ],
+    "launch": {
+      "web_url": "https://www.packer.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
