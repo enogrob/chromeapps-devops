@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "httpw://www.packer.io"
+      "https://www.packer.io"
     ],
     "launch": {
       "web_url": "https://www.packer.io"
