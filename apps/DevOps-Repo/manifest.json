@@ -1,0 +1,17 @@
+{
+  "name": "Repo",
+  "description": "Repo",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://source.android.com/setup/develop/repo"
+    ],
+    "launch": {
+      "web_url": "https://source.android.com/setup/develop/repo"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
