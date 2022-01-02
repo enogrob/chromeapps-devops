@@ -1,0 +1,17 @@
+{
+  "name": "VS Marketplace",
+  "description": "Access VS Marketplace",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://marketplace.visualstudio.com"
+    ],
+    "launch": {
+      "web_url": "https://marketplace.visualstudio.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
